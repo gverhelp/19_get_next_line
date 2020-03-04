@@ -1,0 +1,7 @@
+<<< First line >>>
+<<< Second line >>>
+<<< Third line >>>
+<<< Fourth line >>>
+
+<<< Not last line because there is an empty line after this >>>
+
